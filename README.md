@@ -1,2 +1,2 @@
 # go_basics
-Baby programs in GO
+Baby programs in GOlang
